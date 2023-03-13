@@ -1,0 +1,39 @@
+*, html, body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+      background-color: #DE1ADE;
+}
+.login{
+      width: 60%;
+      border: 1px solid Yellow;
+      padding: 20px;
+      background: rgba(0, 0, 0, 0, 5);
+      margin: 25px auto;
+}
+.title {
+      text-align: center;
+      color: White;
+      margin-bottom: 15px;
+      text-transform: uppercase;
+}
+.lable {
+      color: #FFF;
+      padding: 5px 0;
+      display: flex;
+}
+.form {
+      padding: 10px
+      border: none;
+      width: 50%;
+      border-radius: 10px;
+}
+
+a {
+ color: Yellow;
+ display: flex;
+ margin-top: 100px;
+}
